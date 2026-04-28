@@ -11,7 +11,7 @@ El estudiante debe ser capaz de reconocer y aplicar conceptos básicos del Parad
 ## Datos del estudiante
 Nombre del estudiante: Cristian Tenorio 
 
-Nivel: [Nivel] 
+Nivel: Estudiante 
 
 Carrera: Informática 
 
